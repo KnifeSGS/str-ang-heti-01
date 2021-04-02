@@ -1,0 +1,134 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Sanyi",
+      "email": "s@gmail.com",
+      "points": 0,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Józsi",
+      "email": "j@gmail.com",
+      "points": 0,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ildi",
+      "email": "i@gmail.com",
+      "points": 0,
+      "active": true
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 1,
+      "title": "Quiz címe 1",
+      "description": "leírás",
+      "question": [],
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "Quiz címe 2",
+      "description": "leírás",
+      "question": [],
+      "active": true
+    },
+    {
+      "id": 3,
+      "title": "Quiz címe 3",
+      "description": "leírás",
+      "question": [],
+      "active": true
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Első kérdés",
+      "answers": [
+        {
+          "id": 1,
+          "content": "content 1",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "content 2",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "content 3",
+          "correct": false
+        },
+        {
+          "id": 4,
+          "content": "content 4",
+          "correct": false
+        }
+      ],
+      "points": 1,
+      "active": true
+    },
+    {
+      "id": 2,
+      "question": "Második kérdés",
+      "answers": [
+        {
+          "id": 1,
+          "content": "content 1",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "content 2",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "content 3",
+          "correct": false
+        },
+        {
+          "id": 4,
+          "content": "content 4",
+          "correct": false
+        }
+      ],
+      "points": 1,
+      "active": true
+    },
+    {
+      "id": 3,
+      "question": "Harmadik kérdés",
+      "answers": [
+        {
+          "id": 1,
+          "content": "content 1",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "content 2",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "content 3",
+          "correct": false
+        },
+        {
+          "id": 4,
+          "content": "content 4",
+          "correct": false
+        }
+      ],
+      "points": 1,
+      "active": true
+    }
+  ]
+}
